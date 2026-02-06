@@ -14,7 +14,7 @@
 </div>
 
 
-![HunyuanVideo-Foley](img/HunyuanVideoFoley.jpg)
+![HunyuanVideo-Foley](assets/HunyuanVideoFoley.jpg)
 
 [![Release](https://img.shields.io/github/release/LeeAeron/HunyuanVideo-Foley.svg)](https://github.com/LeeAeron/HunyuanVideo-Foley/releases/latest)
 
