@@ -117,7 +117,7 @@ setup(
         "Documentation": "https://szczesnys.github.io/hunyuanvideo-foley",
         "Paper": "https://arxiv.org/abs/2508.16930",
         "Demo": "https://huggingface.co/spaces/tencent/HunyuanVideo-Foley",
-        "Models": "https://huggingface.co/LeeAeron/HunyuanVideo-Foley/models",
+        "Models": "https://huggingface.co/LeeAeron/HunyuanVideo-Foley",
     },
     
     # Package discovery
