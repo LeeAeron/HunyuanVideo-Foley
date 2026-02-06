@@ -1,4 +1,4 @@
-# 🚀 HunyuanVideo-Foley: Portable Version
+# 🚀 HunyuanVideo-Foley
 
 <div align="center">
 
@@ -14,11 +14,12 @@
 </div>
 
 
-![HunyuanVideo-Foley](img/HunyuanVideo-Foley.png)
+![HunyuanVideo-Foley](img/HunyuanVideoFoley.jpg)
 
 [![Release](https://img.shields.io/github/release/LeeAeron/HunyuanVideo-Foley.svg)](https://github.com/LeeAeron/HunyuanVideo-Foley/releases/latest)
 
-### ✨ **Key Highlights**
+
+## ✨ **Key Highlights**
 
 <table align="center" style="border: none; margin: 20px 0;">
 <tr>
@@ -46,18 +47,7 @@ Professional-grade audio generation with crystal clarity
 </div>
 
 
-## 📄 **Abstract**
-
-<div align="center" style="background: linear-gradient(135deg, #ffeef8 0%, #f0f8ff 100%); padding: 30px; border-radius: 20px; margin: 20px 0; border-left: 5px solid #ff6b9d; color: #333;">
-
-**🚀 Tencent Hunyuan** open-sources **HunyuanVideo-Foley** an end-to-end video sound effect generation model! 
-
-*A professional-grade AI tool specifically designed for video content creators, widely applicable to diverse scenarios including short video creation, film production, advertising creativity, and game development.*
-
-</div>
-
-
-### 🎯 **Core Highlights**
+## 🎯 **Core Highlights**
 
 <div style="display: grid; grid-template-columns: 1fr; gap: 15px; margin: 20px 0;">
 
