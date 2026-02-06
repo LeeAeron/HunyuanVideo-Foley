@@ -117,6 +117,7 @@ Please be patient and wait for the shell to start (monitor in the console).
 <p style="color: #666; margin-top: 15px; font-size: 14px;">
   
 © 2025 Tencent Hunyuan. All rights reserved. | Made with ❤️ for the AI community
+
 © 2026 LeeAeron, Portable version.
 
 </p>
