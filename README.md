@@ -109,8 +109,8 @@ Please be patient and wait for the shell to start (monitor in the console).
 
 | Model               | Checkpoint                  | VRAM (Normal) | VRAM (Offload) |
 |---------------------|-----------------------------|---------------|----------------|
-| **XXL** *(Default)* | `hunyuanvideo_foley.pth`    | 20GB          | 12GB           |
-| **XL**              | `hunyuanvideo_foley_xl.pth` | 16GB          | 8GB            |
+| **XXL** *(Default)* | `hunyuanvideo_foley.pth`    | 20GB          | 6GB+           |
+| **XL**              | `hunyuanvideo_foley_xl.pth` | 16GB          | 6GB+            |
 
 
 ## 📺 Credits
