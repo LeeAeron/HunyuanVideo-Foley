@@ -141,9 +141,6 @@ dmypy.json
 pyrightconfig.json
 .cursorignore
 
-assets/
-examples/
-
 # For global settings
 __*/
 **/my_*
