@@ -105,6 +105,8 @@ Please be patient and wait for the shell to start (monitor in the console).
 
 ### 📊 **Model Specifications**
 
+ℹ️ Model will be downloaded while first generation started (depending to mode you started HunyuanVideo-Foley).
+
 | Model               | Checkpoint                  | VRAM (Normal) | VRAM (Offload) |
 |---------------------|-----------------------------|---------------|----------------|
 | **XXL** *(Default)* | `hunyuanvideo_foley.pth`    | 20GB          | 12GB           |
