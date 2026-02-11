@@ -92,7 +92,7 @@ This project provided with only *.bat installer/starter file, that will download
     - This installer is intended for those running Windows 10 or higher. 
     - Application functionality for systems running Windows 7 or lower is not guaranteed.
 
-- Download the F5-TTSx .bat installer for Windows in [Releases](https://github.com/LeeAeron/HunyuanVideo-Foley/releases).
+- Download the HunyuanVideoFoley .bat installer for Windows in [Releases](https://github.com/LeeAeron/HunyuanVideo-Foley/releases).
 - Place the BAT-file in any folder in the root of any partition with a short Latin name without spaces or special characters and run it.
 - Select INSTALL (5) entry .bat file will download, unpack and configure all needed environment.
 - The batch file downloads portable Git and Microconda, creates a portable venv, installs last official stable Torch with Cuda 12.8, downloads models, and then deletes part of the downloaded cache. 
